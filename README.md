@@ -1,1 +1,1 @@
-# SC-FDMA
+# SC-FDMA Matlab script
